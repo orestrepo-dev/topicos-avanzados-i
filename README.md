@@ -1,7 +1,7 @@
 # LABORATORIO #1 – PRINCIPIOS SOLID Y PATRONES DE DISEÑO
 
-**Universidad Tecnológica de Panamá**
-**Facultad de Ingeniería de Sistemas Computacionales**
+**Universidad Tecnológica de Panamá** | 
+**Facultad de Ingeniería de Sistemas Computacionales** | 
 **Maestría en Ingeniería de Software – Verano 2025**
 
 **Profesor:** Danilo Domínguez Pérez, PhD | 
