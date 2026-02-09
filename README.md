@@ -4,7 +4,7 @@
 **Facultad de Ingeniería de Sistemas Computacionales**
 **Maestría en Ingeniería de Software – Verano 2025**
 
-**Profesor:** Danilo Domínguez Pérez, PhD
+**Profesor:** Danilo Domínguez Pérez, PhD | 
 **Grupo 1:** Osvaldo Restrepo, Edgardo Pittí, Carlos Salazar
 
 ---
