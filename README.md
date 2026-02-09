@@ -2,7 +2,7 @@
 
 **Universidad Tecnológica de Panamá** | 
 **Facultad de Ingeniería de Sistemas Computacionales** | 
-**Maestría en Ingeniería de Software – Verano 2025**
+**Maestría en Ingeniería de Software – Verano 2026**
 
 **Profesor:** Danilo Domínguez Pérez, PhD | 
 **Grupo 1:** Osvaldo Restrepo, Edgardo Pittí, Carlos Salazar
